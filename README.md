@@ -45,9 +45,9 @@ I’m passionate about solving complex problems using creativity and critical th
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnikaSharma17&show_icons=true&theme=tokyonight" alt="Anika's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AnikaSharma17&show_icons=true&theme=tokyonight&cache_seconds=1800" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnikaSharma17&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnikaSharma17&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
