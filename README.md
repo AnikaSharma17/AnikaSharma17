@@ -52,10 +52,10 @@ I’m passionate about solving complex problems using creativity and critical th
 
 ---
 
-📫 **Reach Me At:**  
-📧 anika.sharma.3668@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/anika-sharma1b8b72265/)  
-🌐 [GitHub](https://github.com/AnikaSharma17)
+**Reach Me At:**  
+anika.sharma.3668@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/anika-sharma1b8b72265/)  
+[GitHub](https://github.com/AnikaSharma17)
 
 ---
 
