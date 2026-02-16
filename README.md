@@ -15,10 +15,10 @@ AI and Data Science undergraduate with hands-on experience in machine learning, 
 
 ### What I Do
 
-✔ Build AI-powered healthcare & diagnostic systems  
-✔ Develop ML models for prediction & computer vision  
-✔ Create full-stack platforms with secure data workflows  
-✔ Explore Generative AI & Agentic AI applications
+- Build AI-powered healthcare & diagnostic systems  
+- Develop ML models for prediction & computer vision  
+- Create full-stack platforms with secure data workflows  
+- Explore Generative AI & Agentic AI applications
 
 ---
 
@@ -73,9 +73,7 @@ BML Munjal University, Gurugram
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnikaSharma17&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnikaSharma17&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=AnikaSharma17&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
