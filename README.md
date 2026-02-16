@@ -48,20 +48,21 @@ AI and Data Science undergraduate with hands-on experience in machine learning, 
 - Improved scalability & performance of telecom systems
 
 ---
+### Projects
 
-### Brain Tumor Detection
+**Brain Tumor Detection**
 Deep learning pipeline using **VGG, 3D U-Net, ResNet & MobileNet** for MRI-based tumor detection and segmentation.
 
-### Retinal Disease Classification (CNN + ACGAN)
+**Retinal Disease Classification (CNN + ACGAN)**
 Multi-class classification of retinal diseases from fundus images to improve diagnostic accuracy.
 
-### Neurodegenerative Disease Detection
+**Neurodegenerative Disease Detection**
 Multi-task deep learning pipeline for **Alzheimer’s & Parkinson’s MRI** segmentation and classification.
 
-### Fetal Health Prediction
+**Fetal Health Prediction**
 Machine learning models (Random Forest, SVM, Neural Networks) to predict fetal health from CTG data.
 
-### CottonSeverity-YOLOX (Research Project)
+**CottonSeverity-YOLOX (Research Project)**
 YOLOX-based cotton leaf disease detection with model optimization & comparison against YOLOv8 and Faster R-CNN.
 
 ---
