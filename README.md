@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anika Sharma</h1>
-<h3 align="center">AI ML Engineer | Backend Developer | Real-life Problem Solver</h3>
+<h3 align="center">AI & Data Science Engineer | Full-Stack Developer | GenAI Developer</h3>
 
 <p align="center">
   <a href="mailto:anika.sharma.3668@gmail.com">✉ Email</a> •
@@ -9,17 +9,43 @@
 
 ---
 
-I’m passionate about solving complex problems using creativity and critical thinking. With a strong foundation in software engineering, I enjoy building impactful projects in AI, ML, and web technologies.
+AI and Data Science undergraduate with hands-on experience in machine learning, deep learning, and full-stack development. Skilled in building intelligent, data-driven systems using Python, ML frameworks, and modern web technologies. Proven ability to translate complex problems into scalable technical solutions through internships and research projects.
+
+---
+
+### What I Do
+
+✔ Build AI-powered healthcare & diagnostic systems  
+✔ Develop ML models for prediction & computer vision  
+✔ Create full-stack platforms with secure data workflows  
+✔ Explore Generative AI & Agentic AI applications
 
 ---
 
 ### Technologies & Tools
 
-- **Languages:** Python, C++
-- **Web:** HTML, CSS, JavaScript, Node.js, React.js
-- **Databases:** MySQL, SQL Server
-- **Frameworks/Libraries:** Express.js, TensorFlow, Keras
-- **Tools:** Git, GitHub, MySQL Workbench, VS Code, NetBeans
+- **Languages:** Python, SQL, JavaScript, HTML, CSS
+- **Frameworks & Tools:** React.js, Node.js, FastAPI, Express.js
+- **AI/ML:** Machine Learning, Deep Learning, CNNs, GANs, Generative AI, Agentic AI  
+- **Libraries:** Pandas, NumPy, Matplotlib, TensorFlow, Keras  
+- **Databases:** MySQL  
+- **Tools:** Git, GitHub, VS Code, LangChain  
+
+---
+
+### Experience
+
+**AI/ML Intern — Kanad Networks Pvt. Ltd.** *(May 2025 – Jul 2025)*  
+- Built a **Python-based cell location predictor** using ML & triangulation  
+- Evaluated accuracy using R² scores & distance error metrics  
+
+**Backend Developer Intern — Metamix Tech** *(Jun 2024 – Jul 2024)*  
+- Developed **MedVisor**, a secure healthcare platform  
+- Implemented role-based access & analytics features  
+
+**Web Developer Intern — Kanad Networks Pvt. Ltd.** *(Dec 2023 – Jan 2024)*  
+- Implemented microservices architecture using **Node.js & Spring Boot**  
+- Improved scalability & performance of telecom systems
 
 ---
 
@@ -34,20 +60,22 @@ I’m passionate about solving complex problems using creativity and critical th
 - **[Fetal Health Prediction](#)**  
   Machine Learning on CTG data to predict fetal health using SVM, RF, and Neural Networks.
 
-- **MedVisor – Secure Healthcare Portal**  
-  Backend-focused project using Node.js, React, and MySQL for managing patient medical data securely.
+---
 
-- **Telecom Optimization Platform @Kanad Networks**  
-  Worked on microservices using Spring Boot and Node.js; applied network optimization tools like Fission, Quark, Tracer.
+### Education
+
+**B.Tech Computer Science**  
+BML Munjal University, Gurugram  
+2022 – 2026
 
 ---
 
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnikaSharma17&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnikaSharma17&show_icons=true&theme=tokyonight" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnikaSharma17&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnikaSharma17&layout=compact&theme=tokyonight" />
 </p>
 
 ---
