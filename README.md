@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anika Sharma</h1>
-<h3 align="center">AI Enthusiast | Backend Developer | Passionate Problem Solver</h3>
+<h3 align="center">AI ML Engineer | Backend Developer | Real-life Problem Solver</h3>
 
 <p align="center">
   <a href="mailto:anika.sharma.3668@gmail.com">✉ Email</a> •
